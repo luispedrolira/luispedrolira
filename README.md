@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi there 👋! I'm a junior developer passionate about technology and programming. I'm currently working on improving my web development skills and learning new programming languages, as well as learning a bit more about the world of cybersecurity.<br><br>I would love to collaborate on open source projects related to web development, as I think it's a great way to improve my skills and contribute to the community. I am looking for help to improve my skills in areas such as software architecture and mobile application development. I am currently working on projects with programming languages such as JavaScript, Python, TypeScript and Java
 
 
